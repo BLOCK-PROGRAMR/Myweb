@@ -8,7 +8,7 @@ const Footer = () => {
                 {/* Social Media Links */}
                 <div className="flex space-x-6">
                     <a
-                        href="https://www.instagram.com/your_username"
+                        href="https://www.instagram.com/the_lpun/?next=%2F__lpun__%2F"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="text-gray-400 hover:text-pink-500 transition-colors duration-300"
@@ -17,7 +17,7 @@ const Footer = () => {
                         <FaInstagram size={24} />
                     </a>
                     <a
-                        href="https://www.linkedin.com/in/your_username"
+                        href="https://www.linkedin.com/in/nithinkumar-pedda-865a1826a/"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="text-gray-400 hover:text-blue-500 transition-colors duration-300"
@@ -26,7 +26,7 @@ const Footer = () => {
                         <FaLinkedin size={24} />
                     </a>
                     <a
-                        href="https://twitter.com/your_username"
+                        href="https://x.com/0x_Scater"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="text-gray-400 hover:text-blue-400 transition-colors duration-300"
