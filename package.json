@@ -6,7 +6,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
     "start": "parcel index.html",
-    "build": "parcel build index.html --public-url /Myweb/"
+    "build": "parcel build index.html --public-url ./"
   },
   "homepage": "https://block-programr.github.io/Myweb/",
   "keywords": [],
